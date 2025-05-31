@@ -1,4 +1,6 @@
-# SLCL
+# TGRS-SLCL
+
+doi: 10.1109/TGRS.2025.3574030
 
 ## PyTorch implementation of "Sample-Level Improved Cross-Source Contrastive Learning for PAN and MS Joint Classification".
 
